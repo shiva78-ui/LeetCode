@@ -1,2 +1,10 @@
 # LeetCode
 A collection of my Data Structures and Algorithms solutions in Java, solved while following Striver's A2Z DSA Sheet and practicing on LeetCode.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/shiva78-ui/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+<!---LeetCode Topics End-->
