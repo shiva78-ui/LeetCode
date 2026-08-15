@@ -14,6 +14,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/shiva78-ui/LeetCode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/shiva78-ui/LeetCode/tree/master/0912-sort-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva78-ui/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -49,6 +50,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/shiva78-ui/LeetCode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/shiva78-ui/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
