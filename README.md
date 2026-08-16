@@ -17,6 +17,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shiva78-ui/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0414-third-maximum-number](https://github.com/shiva78-ui/LeetCode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/shiva78-ui/LeetCode/tree/master/0912-sort-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shiva78-ui/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva78-ui/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
