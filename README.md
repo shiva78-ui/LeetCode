@@ -14,6 +14,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shiva78-ui/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0414-third-maximum-number](https://github.com/shiva78-ui/LeetCode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/shiva78-ui/LeetCode/tree/master/0912-sort-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva78-ui/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -36,6 +37,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shiva78-ui/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shiva78-ui/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shiva78-ui/LeetCode/tree/master/0344-reverse-string) |
 ## String
