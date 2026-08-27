@@ -9,6 +9,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 | [0007-reverse-integer](https://github.com/shiva78-ui/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shiva78-ui/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/shiva78-ui/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shiva78-ui/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shiva78-ui/LeetCode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva78-ui/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shiva78-ui/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -17,6 +18,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shiva78-ui/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/shiva78-ui/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shiva78-ui/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shiva78-ui/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shiva78-ui/LeetCode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/shiva78-ui/LeetCode/tree/master/0912-sort-an-array) |
@@ -58,6 +60,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shiva78-ui/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shiva78-ui/LeetCode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/shiva78-ui/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -80,4 +83,16 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shiva78-ui/LeetCode/tree/master/0912-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shiva78-ui/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shiva78-ui/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shiva78-ui/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
