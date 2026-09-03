@@ -21,6 +21,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 | [0268-missing-number](https://github.com/shiva78-ui/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shiva78-ui/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shiva78-ui/LeetCode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shiva78-ui/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shiva78-ui/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/shiva78-ui/LeetCode/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shiva78-ui/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -88,6 +89,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shiva78-ui/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shiva78-ui/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
