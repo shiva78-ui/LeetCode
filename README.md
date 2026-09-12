@@ -18,6 +18,7 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shiva78-ui/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/shiva78-ui/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/shiva78-ui/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shiva78-ui/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shiva78-ui/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shiva78-ui/LeetCode/tree/master/0414-third-maximum-number) |
@@ -98,4 +99,8 @@ A collection of my Data Structures and Algorithms solutions in Java, solved whil
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shiva78-ui/LeetCode/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shiva78-ui/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
